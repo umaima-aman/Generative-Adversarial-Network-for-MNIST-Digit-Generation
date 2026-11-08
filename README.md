@@ -21,9 +21,9 @@ The project consists of two neural networks:
 
 PyTorch Lightning manages the training process. The implementation includes:
 
-Manual optimization of generator and discriminator.
-Generator and discriminator loss tracking.
-TensorBoard logging.
-Model checkpointing based on generator loss.
-Generation and visualization of images at the end of each training epoch.
+1. Manual optimization of generator and discriminator.
+2. Generator and discriminator loss tracking.
+3. TensorBoard logging.
+4. Model checkpointing based on generator loss.
+5. Generation and visualization of images at the end of each training epoch.
 
